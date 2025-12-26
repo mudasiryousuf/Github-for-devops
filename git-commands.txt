@@ -27,3 +27,19 @@
    27  ls
    28  cd /git-demo-new
    29  cd git-demo-new
+      29  cd git-demo-new
+   30  git clone https://github.com/mudasiryousuf/https-github.com-sohailadnan-samplephpwork.git
+   31  ls
+   32  git clone 200~https://github.com/mudasiryousuf/Github-for-devops.git
+   33  clear
+   34  git clone https://github.com/mudasiryousuf/Github-for-devops.git
+   35  ls
+   36  history
+   37  git status
+   38  clear
+   39  git status
+   40  history
+
+
+
+hyy this content is added
