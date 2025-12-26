@@ -1,0 +1,29 @@
+    1  git config --global user.name "mudasiryousuf"
+    2  git config --global user.name mudasiryousuf
+    3  eval
+    4  eval "${ssh-agent -s}"
+    5  git --version
+    6  git --version
+    7  git --ersion
+    8  status
+    9  stats=us
+   10  status
+   11  clear
+   12  ls
+   13  ibn
+   14  clear
+   15  la -l
+   16  ls
+   17  clear
+   18  cd /downloads
+   19  cd /gitt
+   20  cd /users/Mudasir Ibn Usuf
+   21  clear
+   22  cd /users/Mudasir Ibn Usuf
+   23  cd /users/Mudasir Ibn Usuf/downloads
+   24  cd /c/users/Mudasir\ Ibn \Usuf
+   25  cd /c/users/Mudasir\ Ibn\ Usuf
+   26  mkdir git-demo-new
+   27  ls
+   28  cd /git-demo-new
+   29  cd git-demo-new
