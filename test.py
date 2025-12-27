@@ -1,3 +1,2 @@
-print(
-    "my name is mudasir i am learning devops and linux"
-)
+for i in range(1, 11):
+    print(i)
